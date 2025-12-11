@@ -1,7 +1,3 @@
-const h1 = document.querySelector('h1')!;
-h1.textContent = "Hello Mr: Hicham";
-console.log(h1.textContent);
-
 
 // import './style.css'
 // import typescriptLogo from './typescript.svg'
